@@ -1,0 +1,14 @@
+.lineThrough {
+  text-decoration: line-through;
+  color: green;
+}
+.container {
+  background: beige;
+  max-width: 300px;
+  padding: 50px;
+  border-radius: 60px;
+}
+
+h1 {
+  font-family: monospace;
+}
